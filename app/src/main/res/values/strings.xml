@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssetLogin</string>
+    <string name="Asset_Managment">Welcome</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+</resources>
